@@ -50,6 +50,5 @@ Employees who travel rarely have the highest number of attrition cases among the
 Single employees have the highest number of attrition cases compared with married and divorced employees,
 Laboratory Technician has the highest number of attrition cases among the job roles shown, followed by Sales Executive and Research Scientist.
 
-Project Outcome:
-This project demonstrates the use of Power BI for HR data analysis and interactive data visualization. The dashboard provides an easy-to-understand visual representation of employee attrition and helps users explore the factors associated with employee turnover.
+
 
