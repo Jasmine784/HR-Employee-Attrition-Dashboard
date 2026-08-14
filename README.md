@@ -40,7 +40,15 @@ Attrition by Business Travel,
 Attrition by Marital Status,
 
 Key Insights:
-The dashboard helps identify patterns in employee attrition by comparing different employee characteristics and workplace factors. It provides insights into how factors such as department, job role, age group, overtime, business travel, education, and marital status are associated with employee attrition.
+The dataset contains 1,470 employees, with 237 employees showing attrition, resulting in an overall attrition rate of 16.12%,
+Research & Development has the highest number of employee attrition cases among the departments, followed by Sales and Human Resources,
+The 26–35 age group has the highest number of attrition cases compared with the other age groups,
+Employees who work overtime show a higher number of attrition cases than employees who do not work overtime,
+The dashboard shows a higher number of attrition cases among male employees compared with female employees,
+Employees with an Educational background in Life Sciences account for the highest number of attrition cases among the education fields shown,
+Employees who travel rarely have the highest number of attrition cases among the business-travel categories, followed by frequent travelers and non-travelers,
+Single employees have the highest number of attrition cases compared with married and divorced employees,
+Laboratory Technician has the highest number of attrition cases among the job roles shown, followed by Sales Executive and Research Scientist.
 
 Project Outcome:
 This project demonstrates the use of Power BI for HR data analysis and interactive data visualization. The dashboard provides an easy-to-understand visual representation of employee attrition and helps users explore the factors associated with employee turnover.
